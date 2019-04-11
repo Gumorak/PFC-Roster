@@ -1,5 +1,5 @@
 CIN Tigers,CIN
-QB,Lucius Manning, 33, 2004, 85, 57, 68, 78, 85,64,8.2,1
+QB,Lucy Manning, 20, 2016, 125, 99, 99, 99, 99,99,1,15
 QB,Lamar Theo,27,2010,83,56,65,64,91,74,9.3,1
 RB,Peter Andre,31,2008,71,53,78,71,76,87,4.4,3
 RB,Kendrick Douglas,30,2009,80,74,94,64,77,84,3.9,2
